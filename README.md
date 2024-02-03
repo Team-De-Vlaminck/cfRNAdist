@@ -1,4 +1,4 @@
-cfRNA_dist
+cfRNAdist
 ========
 
 * This R package computes distance of cell type fraction profiles between a cell type fraction profile and a group of control samples based on Mahalanobis distance.
@@ -16,5 +16,5 @@ Installation
 * If all dependent packages and commands have been installed, please do git clone and use the following command line to install. 
 
 ```````
-R CMD INSTALL cfRNA_dist
+R CMD INSTALL cfRNAdist
 ```````
