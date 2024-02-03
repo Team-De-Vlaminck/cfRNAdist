@@ -1,0 +1,14 @@
+Package: cfRNAdist
+Version: 1.0.0
+Date: 2024-01-30
+Title: cfRNA_dist: Compute distance between a cell type fraction profile and a group of control samples
+Author: Tinyi Chu<tc532@cornell.edu>
+Maintainer: Tinyi Chu<tc532@cornell.edu>
+Depends: R (>= 2.6)
+Imports: Matrix, matrixcalc
+Description: cfRNA_dist: Compute distance between a cell type fraction profile and a group of control samples
+License: GPL-2 | GPL-3
+biocViews: Sequencing, Analysis
+LazyLoad: yes
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
